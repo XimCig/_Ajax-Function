@@ -18,7 +18,6 @@ var Get=_Ajax("http://url.com");
 //JS
 Get._get(True);
 // _get()方法：只有一个参数，异步或者同步，geturl在初始化的时候就应该选择好
-#===========
 //JS
 Get._post("data",True);
 //_post()方法:data参数为传输的POST数据,第二个为异步或者同步
